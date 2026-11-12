@@ -1,0 +1,5 @@
+winrt-Windows.Media.Control>=4.0
+requests>=2.31
+rich>=13.0
+Unidecode>=1.3
+PyYAML>=6.0
